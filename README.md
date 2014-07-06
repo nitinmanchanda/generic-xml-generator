@@ -7,7 +7,7 @@ How to use it?
 ==============
 
 - You can run this python script like this:
-$ python xml-generator.py <priority-level> <input-file-name>
+$ python xml-generator.py [priority-level] [input-file-name]
 
 - Priority level can be either high or medium or low (1st command line argument)
 
