@@ -1,7 +1,7 @@
-generic-xml-generator
+XML Sitemap Generator
 =====================
 
-Generic XML Sitemap Generator - XML generator, which given the list of URLs with specific priority level [high|medium|low], generates the XML sitemap for you.
+XML sitemap generator, which given the list of URLs with specific priority level [high|medium|low], generates the XML sitemap for you.
 
 How to use it?
 ==============
