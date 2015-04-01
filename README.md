@@ -30,4 +30,4 @@ How to submit these files to various search engine bots?
 
 - Also, you can link this index file from your robots.txt as well, by appending the following line:
 
-Sitemap: http://www.seokings.in/sitemap_index.xml
+Sitemap: http://www.example.com/sitemap_index.xml

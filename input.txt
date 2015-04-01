@@ -1,2 +1,2 @@
-http://www.seokings.in/
-http://www.seokings.in/test
+http://www.example.com/
+http://www.example.com/test
